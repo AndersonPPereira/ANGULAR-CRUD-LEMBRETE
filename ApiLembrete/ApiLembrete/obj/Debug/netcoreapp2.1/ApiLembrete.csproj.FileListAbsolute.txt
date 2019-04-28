@@ -1,0 +1,14 @@
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\bin\Debug\netcoreapp2.1\ApiLembrete.deps.json
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\bin\Debug\netcoreapp2.1\ApiLembrete.runtimeconfig.json
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\bin\Debug\netcoreapp2.1\ApiLembrete.runtimeconfig.dev.json
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\bin\Debug\netcoreapp2.1\ApiLembrete.dll
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\bin\Debug\netcoreapp2.1\ApiLembrete.pdb
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.csproj.CoreCompileInputs.cache
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.RazorAssemblyInfo.cache
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.RazorAssemblyInfo.cs
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.AssemblyInfoInputs.cache
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.AssemblyInfo.cs
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.RazorTargetAssemblyInfo.cache
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.dll
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.pdb
+C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.csprojAssemblyReference.cache
