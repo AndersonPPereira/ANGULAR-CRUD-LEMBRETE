@@ -1,18 +1,18 @@
+using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using ApiLembrete.Entidades;
 using ApiLembrete.Enumerador;
-using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiLembrete.Controllers
 {
   [Route("api/[controller]")]
   [ApiController]
-  [EnableCors("AllowMyOrigin")]
   public class LembreteController : ControllerBase
   {
     // GET api/values
-    [HttpGet]
     public ActionResult<IList<Lembrete>> Get()
     {
       return new List<Lembrete>

@@ -11,4 +11,3 @@ C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2
 C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.RazorTargetAssemblyInfo.cache
 C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.dll
 C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.pdb
-C:\Estudo\Angular\cliente-lembrete\ApiLembrete\ApiLembrete\obj\Debug\netcoreapp2.1\ApiLembrete.csprojAssemblyReference.cache

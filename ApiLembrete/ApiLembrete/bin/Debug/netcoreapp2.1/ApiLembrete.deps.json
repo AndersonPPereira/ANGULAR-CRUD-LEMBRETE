@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "f004cf1ddfc251abc1e21b57b043ada8db720867"
+    "signature": "e071b1a7c9d575b1b3d9ba6c9a1be1d9c6701ca2"
   },
   "compilationOptions": {
     "defines": [
@@ -24,8 +24,6 @@
     ".NETCoreApp,Version=v2.1": {
       "ApiLembrete/1.0.0": {
         "dependencies": {
-          "EntityFramework": "6.2.0",
-          "Microsoft.AspNet.Cors": "5.2.7",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
@@ -35,33 +33,6 @@
         },
         "compile": {
           "ApiLembrete.dll": {}
-        }
-      },
-      "EntityFramework/6.2.0": {
-        "runtime": {
-          "lib/net45/EntityFramework.SqlServer.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.2.61023.0"
-          },
-          "lib/net45/EntityFramework.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.2.61023.0"
-          }
-        },
-        "compile": {
-          "lib/net45/EntityFramework.SqlServer.dll": {},
-          "lib/net45/EntityFramework.dll": {}
-        }
-      },
-      "Microsoft.AspNet.Cors/5.2.7": {
-        "runtime": {
-          "lib/net45/System.Web.Cors.dll": {
-            "assemblyVersion": "5.2.7.0",
-            "fileVersion": "5.2.61128.0"
-          }
-        },
-        "compile": {
-          "lib/net45/System.Web.Cors.dll": {}
         }
       },
       "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
@@ -3183,20 +3154,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "EntityFramework/6.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-ptGyXOf26qLrtn+2doAmylIlCxOnBJANwlyyLrXDmqIk9O18IzLWHyxDwwAyhgXkxmbiaA0WNpRy67WRReInBw==",
-      "path": "entityframework/6.2.0",
-      "hashPath": "entityframework.6.2.0.nupkg.sha512"
-    },
-    "Microsoft.AspNet.Cors/5.2.7": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-r7qTj8SKzHT32F2mbB3qgE+6VUd2xILkGaq4LtMW+KP3dDAQmI//j+8Ku01I3D1GKZvB9PU8HTJPkaw7sxSLtQ==",
-      "path": "microsoft.aspnet.cors/5.2.7",
-      "hashPath": "microsoft.aspnet.cors.5.2.7.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
       "type": "package",

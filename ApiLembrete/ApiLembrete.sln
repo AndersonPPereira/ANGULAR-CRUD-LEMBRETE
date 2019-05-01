@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLembrete", "ApiLembrete\ApiLembrete.csproj", "{B5ADC39F-E15A-4619-8846-795C20F411CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLembrete", "ApiLembrete\ApiLembrete.csproj", "{59ADDB92-A229-4C3A-9E63-E7C0402F9AFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B5ADC39F-E15A-4619-8846-795C20F411CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5ADC39F-E15A-4619-8846-795C20F411CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5ADC39F-E15A-4619-8846-795C20F411CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5ADC39F-E15A-4619-8846-795C20F411CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59ADDB92-A229-4C3A-9E63-E7C0402F9AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ADDB92-A229-4C3A-9E63-E7C0402F9AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ADDB92-A229-4C3A-9E63-E7C0402F9AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ADDB92-A229-4C3A-9E63-E7C0402F9AFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3CD9DA4E-887C-4FFC-83BA-394D67D2830A}
+		SolutionGuid = {D06A63F1-ADB6-41C1-A536-CB5E1CC76B01}
 	EndGlobalSection
 EndGlobal
