@@ -1,5 +1,5 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
-import { Lembrete } from 'src/app/interfaces/lembrete';
+import { Lembrete } from '../../interfaces/lembrete';
 
 @Component({
   selector: 'app-form-lembrete',

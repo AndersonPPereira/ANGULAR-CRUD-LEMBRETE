@@ -16,24 +16,24 @@ export class LembreService {
     return this.http.get<Lembrete[]>(url);
   }
 
-  getLembrete(id: number): Observable<Lembrete[]> {
+  getLembrete(id: number): Observable<Lembrete> {
     const url = `${environment.lembretesApiUrl}/lembrete/${id}`;
-    return this.http.get<Lembrete[]>(url);
+    return this.http.get<Lembrete>(url);
   }
 
-  addLembrete(lembrete: Lembrete): Observable<Lembrete[]> {
+  addLembrete(lembrete: Lembrete): Observable<Lembrete> {
     const url = `${environment.lembretesApiUrl}/lembrete/`;
-    return this.http.post<Lembrete[]>(url, lembrete);
+    return this.http.post<Lembrete>(url, lembrete);
   }
 
-  atualizaLembrete(lembrete: Lembrete): Observable<Lembrete[]> {
+  atualizaLembrete(lembrete: Lembrete): Observable<Lembrete> {
     const url = `${environment.lembretesApiUrl}/lembrete/${lembrete.id}`;
-    return this.http.put<Lembrete[]>(url, lembrete);
+    return this.http.put<Lembrete>(url, lembrete);
   }
 
-  deletaLembrete(id: number): Observable<Lembrete[]> {
+  deletaLembrete(id: number): Observable<Lembrete> {
     const url = `${environment.lembretesApiUrl}/lembrete/${id}`;
-    return this.http.delete<Lembrete[]>(url);
+    return this.http.delete<Lembrete>(url);
   }
 
 }
